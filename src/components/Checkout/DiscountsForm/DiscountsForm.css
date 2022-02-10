@@ -1,0 +1,11 @@
+.DiscountsForm .valid{
+
+    outline: 2px solid green;
+
+}
+
+.DiscountsForm .error{
+
+    outline: 2px solid red;
+
+}

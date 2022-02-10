@@ -1,0 +1,12 @@
+.PurchaseTotal{
+    list-style-type: none;
+}
+
+.PurchaseTotal li {
+    text-align: right;
+}
+
+.PurchaseTotal li span {
+    width: 40%;
+    display: inline-block;
+}

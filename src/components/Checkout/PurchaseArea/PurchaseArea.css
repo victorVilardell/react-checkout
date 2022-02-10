@@ -1,0 +1,6 @@
+.PurchaseArea {
+    flex: 1 0 auto;
+    background-color: rgb(172, 170, 170);
+    margin-left: 16px;
+    padding: 16px;
+}

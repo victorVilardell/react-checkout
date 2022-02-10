@@ -1,0 +1,34 @@
+.ProductItem {
+    padding: 8px;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.ProductItem h2{
+    font-family: 'Supermercado One', cursive;
+}
+
+.Asia {
+    background-color: rgb(255, 212, 131);
+}
+
+.ProductItem img {
+    margin-bottom: 16px;
+}
+
+.Africa {
+    background-color: rgb(255, 131, 109);
+}
+
+.Europian {
+    background-color: rgb(131, 131, 255);
+}
+
+.America {
+    background-color: rgb(132, 255, 189);
+}
